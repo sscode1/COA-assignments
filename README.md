@@ -1,2 +1,2 @@
 # COA-assignments
-contains my code for COA assignments in 3rd semester
+contains my code for RISC-V assignments in 3rd semester
